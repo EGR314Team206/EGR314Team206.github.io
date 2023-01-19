@@ -37,4 +37,4 @@ _Italic Text_
 
 ## References
 
-Edited by: Claire and now Jacob and also Gavin B. and also Abigail 
+Edited by: Claire and now Jacob and also Gavin B(Again) and also Abigail 
