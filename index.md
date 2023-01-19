@@ -37,4 +37,4 @@ _Italic Text_
 
 ## References
 
-Edited by: Claire 
+Edited by: Claire and now Jacob
