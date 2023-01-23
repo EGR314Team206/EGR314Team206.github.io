@@ -221,7 +221,7 @@ I just can not get more than 10 min of data when on battery power, disconnect po
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214115946-484b1696-6e26-4b2a-b59a-5bbf313eea49.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214115946-484b1696-6e26-4b2a-b59a-5bbf313eea49.png" width="70%"><br>
 </div>
 </figure>
 
@@ -229,7 +229,7 @@ I just can not get more than 10 min of data when on battery power, disconnect po
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214116096-13ec02ca-005a-4afa-b22a-cb1dd1958bc6.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214116096-13ec02ca-005a-4afa-b22a-cb1dd1958bc6.png" width="70%"><br>
 </div>
 </figure>
 
@@ -247,7 +247,7 @@ I just can not get more than 10 min of data when on battery power, disconnect po
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214116180-2cc50e3e-7e87-4835-8ff1-bd9542341d74.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214116180-2cc50e3e-7e87-4835-8ff1-bd9542341d74.png" width="70%"><br>
 </div>
 </figure>
 
@@ -263,7 +263,7 @@ I just can not get more than 10 min of data when on battery power, disconnect po
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214116243-0825968d-1118-4126-9046-b9f03bfbf8b6.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214116243-0825968d-1118-4126-9046-b9f03bfbf8b6.png" width="70%"><br>
 </div>
 </figure>
 
@@ -401,7 +401,7 @@ To maximize the possible design concepts for the mobile weather station, over on
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214116311-40511671-f01c-4196-bb75-e4e6fbd40425.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214116311-40511671-f01c-4196-bb75-e4e6fbd40425.png" width="70%"><br>
 </div>
 </figure>
 
@@ -412,19 +412,19 @@ The rankings as seen in the stars of each major category of needs was chosen bas
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214116436-f0d1f49a-0f96-4a50-be69-5faf61e4f8c9.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214116436-f0d1f49a-0f96-4a50-be69-5faf61e4f8c9.png" width="70%"><br>
 </div>
 </figure>
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214118667-aa4aca19-75c7-42b9-adf9-adaae294bac9.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214118667-aa4aca19-75c7-42b9-adf9-adaae294bac9.png" width="70%"><br>
 </div>
 </figure>
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214116548-021481ad-4eaa-4471-9d1e-e3ad41df61db.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214116548-021481ad-4eaa-4471-9d1e-e3ad41df61db.png" width="70%"><br>
 </div>
 </figure>
 
@@ -433,7 +433,7 @@ The rankings as seen in the stars of each major category of needs was chosen bas
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214116605-83a6d0e9-b122-42e4-9baf-28e6624f695a.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214116605-83a6d0e9-b122-42e4-9baf-28e6624f695a.png" width="70%"><br>
 </div>
 </figure>
 
@@ -444,7 +444,7 @@ The team worked together to come up with the overall design of the three concept
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214116697-20563f9f-4f2d-4037-af0d-a69326c82453.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214116697-20563f9f-4f2d-4037-af0d-a69326c82453.png" width="70%"><br>
 </div>
 </figure>
 
@@ -452,7 +452,7 @@ The team worked together to come up with the overall design of the three concept
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214116756-8b54c61f-10c5-42e8-b3b7-75410e7e72a7.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214116756-8b54c61f-10c5-42e8-b3b7-75410e7e72a7.png" width="70%"><br>
 </div>
 </figure>
 
@@ -460,7 +460,7 @@ The team worked together to come up with the overall design of the three concept
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214116804-5879344e-ecd6-46a9-97c6-dc4ecd067f28.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214116804-5879344e-ecd6-46a9-97c6-dc4ecd067f28.png" width="70%"><br>
 </div>
 </figure>
 
