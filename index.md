@@ -44,9 +44,9 @@ To determine common user needs for devices using sensors for various weather con
 #### Search #1
 **Keywords: wind speed**
 
-**Search Results Link: Link**
+**Search Results Link:** [Link](https://www.amazon.com/s?k=wind+speed&crid=1VOHJZRICCGJD&sprefix=wind+spee%2Caps%2C146&ref=nb_sb_noss_2)
 #### Selected Product
-1. HoldPeak 866B Digital Anemometer Handheld Wind Speed Meter for Measuring Wind Speed, Temperature and Wind Chill
+1. [HoldPeak 866B Digital Anemometer Handheld Wind Speed Meter for Measuring Wind Speed, Temperature and Wind Chill](https://www.amazon.com/HOLDPEAK-Anemometer-Measuring-Temperature-Backlight/dp/B00ZHKWCP4/ref=sr_1_4?crid=1VOHJZRICCGJD&keywords=wind%2Bspeed&qid=1673918793&sprefix=wind%2Bspee%2Caps%2C146&sr=8-4&th=1)
 
 * Vendor: HoldPeak/Amazon
 * Description: Handheld Wind Speed Meter for Measuring Wind Speed, Temperature and Wind Chill with Backlight and Max/Min
@@ -79,10 +79,11 @@ To determine common user needs for devices using sensors for various weather con
 
 #### Search #2
 **Keywords:** wifi weather station
-**Search Results Link:** Link
+
+**Search Results Link:** [Link](https://www.amazon.com/wifi-weather-station/s?k=wifi+weather+station)
 
 #### Selected Product
-2. Ambient Weather WS-2902 WiFi Smart Weather Stationc
+2. [Ambient Weather WS-2902 WiFi Smart Weather Station](https://www.amazon.com/Ambient-Weather-WiFi-Station/dp/B01N5TEHLI/ref=sr_1_1_sspa?keywords=wifi+weather+station&qid=1673917945&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&psc=1&smid=A2ANVX7C75D1I&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySE84OTNCSkoxRlpRJmVuY3J5cHRlZElkPUEwNDI4MDU1T0U5MDBLN0taNDNGJmVuY3J5cHRlZEFkSWQ9QTAyNTM4MTkzQ1ZFU1I5TjVXMzZPJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
 * Price: $189.99
 * Vendor: Ambient Weather Store
@@ -110,10 +111,11 @@ To determine common user needs for devices using sensors for various weather con
  
 #### Search #3
 **Keywords: temperature sensor for outdoor animals**
-**Search Results Link:** Link
+
+**Search Results Link:** [Link](https://www.google.com/search?q=temperature+sensor+for+outdoor+animals&rlz=1C1ONGR_enUS965US965&oq=t&aqs=chrome.0.69i59l3j0i67j69i57j69i61j69i60l2.551j0j7&sourceid=chrome&ie=UTF-8)
 
 #### Selected Product
-3. Temp Stick Remote WiFi Temperature & Humidity Sensor
+3. [Temp Stick Remote WiFi Temperature & Humidity Sensor](https://www.amazon.com/Wireless-Temperature-Monitoring-Unlimited-Historical/dp/B01HH7YD2Y/ref=sr_1_1?crid=F1KLO4EC7W5H&keywords=temp%2Bstick%2Bremote%2Bwifi&qid=1673921161&s=books&sprefix=temp%2Bstick%2Cstripbooks%2C177&sr=1-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&th=1)
 * Price: $149
 * Vendor:  Ideal Sciences
 * Description: 24/7 remote wifi temperature and humidity monitor with detailed data logging.
@@ -141,11 +143,11 @@ To determine common user needs for devices using sensors for various weather con
 |“I was never able to get the device to connect via their instructions/web browser. It appears this was a used/previously returned item as the plastic packaging was already torn open when I received the item. I immediately reached out to customer support and never received a response back from them. I wanted to support a U.S. based business, but the product and customer support are terrible.”|1. Needs straightforward instructions (explicit) <br> 2. Needs to have strong customer support (latent) <br> 3. Needs to remain online at all times (latent)|
 
 #### Search #4
-Keywords: “Humidity sensing humidifier”
+**Keywords:** “Humidity sensing humidifier”
 
-Search Results Link: Link
+**Search Results Link:** [Link](https://www.amazon.com/s?k=humidity+sensing+humidifier&crid=1K3729Z32UN15&sprefix=humidity+sensing+humidifier%2Caps%2C120&ref=nb_sb_noss_1)
 #### Selected Products
-4. Syvio 2.8L Smart Humidity Sensor
+4. [Syvio 2.8L Smart Humidity Sensor](https://www.amazon.com/Humidifiers-Humidity-Essential-Diffuser-Ultrasonic/dp/B0B49MSLWQ/ref=sr_1_5?crid=3J8LRPZ47WY7G&keywords=humidity%2Bsensing%2Bhumidifier&qid=1673918199&sprefix=humidity%2Bsensing%2Bhu%2Caps%2C133&sr=8-5&th=1)
 
 * Price: $49.99
 * Vendor: Syvio
@@ -173,11 +175,12 @@ Search Results Link: Link
 |“This is not user friendly. Mine shuts off randomly and I’m constantly getting an error (E2) with an annoying beeping sound. Bought a cheap $20 one that works much better. Don’t waste your money on this!”|1. Should be inexpensive (Explicit) <br> 2. Programmed properly to prevent unnecessary errors. (Latent) <br> 3. Does not produce too much noise. (Explicit)|
 
 #### Search #5
-Keywords: “Weather Station Wifi”
+**
+Keywords:** “Weather Station Wifi”
 
-Search Results Link: Link
+**Search Results Link:** [Link](https://www.amazon.com/s?k=weather+station+wifi&crid=231KER4S305DB&sprefix=weather+station+wifi%2Caps%2C138&ref=nb_sb_noss_1)
 #### Selected Products
-5. Tempest Weather System
+5. [Tempest Weather System](https://www.amazon.com/Tempest-Weather-Accurate-Forecasts-Wireless/dp/B0868WY7NY/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.14a246c3-7a62-40bf-bdd0-5ac67c2a1913%3Aamzn1.sym.14a246c3-7a62-40bf-bdd0-5ac67c2a1913&crid=231KER4S305DB&cv_ct_cx=weather+station+wifi&keywords=weather+station+wifi&pd_rd_i=B0868WY7NY&pd_rd_r=4961ad94-60b3-4af5-b396-5d67f5f137a2&pd_rd_w=FLkwT&pd_rd_wg=d9Wyv&pf_rd_p=14a246c3-7a62-40bf-bdd0-5ac67c2a1913&pf_rd_r=SSF77S1AE7DJ2CEEQWWH&qid=1673920953&sprefix=weather+station+wifi%2Caps%2C138&sr=1-1-a73d1c8c-2fd2-4f19-aa41-2df022bcb241-spons&psc=1&smid=A3RAYC554RKGF9&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFDWDNIN1c0U1NZMEUmZW5jcnlwdGVkSWQ9QTA5NDQ3ODIzMzlHT1hFSVRPQzQ0JmVuY3J5cHRlZEFkSWQ9QTA0MTg5NTEyQURWTkwxMUNCRThSJndpZGdldE5hbWU9c3Bfc2VhcmNoX3RoZW1hdGljJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
 * Price: $329.00
 * Vendor: WeatherFlow
