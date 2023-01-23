@@ -444,7 +444,7 @@ The team worked together to come up with the overall design of the three concept
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214116605-83a6d0e9-b122-42e4-9baf-28e6624f695a.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214116697-20563f9f-4f2d-4037-af0d-a69326c82453.png" width="45%"><br>
 </div>
 </figure>
 
@@ -452,7 +452,7 @@ The team worked together to come up with the overall design of the three concept
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214116605-83a6d0e9-b122-42e4-9baf-28e6624f695a.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214116756-8b54c61f-10c5-42e8-b3b7-75410e7e72a7.png" width="45%"><br>
 </div>
 </figure>
 
@@ -460,7 +460,7 @@ The team worked together to come up with the overall design of the three concept
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214116605-83a6d0e9-b122-42e4-9baf-28e6624f695a.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214116804-5879344e-ecd6-46a9-97c6-dc4ecd067f28.png" width="45%"><br>
 </div>
 </figure>
 
