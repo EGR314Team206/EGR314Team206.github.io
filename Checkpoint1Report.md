@@ -47,7 +47,11 @@ To determine common user needs for devices using sensors for various weather con
 **Search Results Link: Link**
 #### Selected Product
 1. HoldPeak 866B Digital Anemometer Handheld Wind Speed Meter for Measuring Wind Speed, Temperature and Wind Chill
-
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://m.media-amazon.com/images/I/61YqzEkMWCL._AC_SL1500_.jpg" width="30%"><br>  
+ </div>
+</figure>
 * Price: $30.99
 * Vendor: HoldPeak/Amazon
 * Description: Handheld Wind Speed Meter for Measuring Wind Speed, Temperature and Wind Chill with Backlight and Max/Min
@@ -57,7 +61,11 @@ To determine common user needs for devices using sensors for various weather con
 **Search Results Link: Link**
 #### Selected Product
 2. Ambient Weather WS-2902 WiFi Smart Weather Station
-
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://m.media-amazon.com/images/I/51fSHzJV5dL._AC_SL1000_.jpg" width="50%"><br>  
+</div>
+</figure>
 * Price: $189.99
 * Vendor: Ambient Weather Store
 * Description: Allows you to monitor your home and backyard weather conditions with brilliant, easy-to-read LCD color display. Wireless all-in-one integrated sensor array measures wind speed/direction, temperature, humidity, rainfall, UV and solar radiation. Supports both imperial and metric units of measure with calibration available. Enhanced Wi-Fi connectability option that enables your station to transmit its data wirelessly to the world's largest personal weather station network.
@@ -67,7 +75,11 @@ To determine common user needs for devices using sensors for various weather con
 Search Results Link: Link
 #### Selected Product
 3. Temp Stick Remote WiFi Temperature & Humidity Sensor
-
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://m.media-amazon.com/images/I/612SBcK04TL._AC_SL1000_.jpg" width="45%"><br>  
+</div>
+</figure>
 * Price: $149
 * Vendor:  Ideal Sciences
 * Description: 24/7 remote wifi temperature and humidity monitor with detailed data logging.
@@ -77,7 +89,11 @@ Keywords: “Humidity sensing humidifier”
 Search Results Link: Link
 #### Selected Products
 4. Syvio 2.8L Smart Humidity Sensor
-
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://m.media-amazon.com/images/I/51qAkqH90zL._AC_SL1500_.jpg" width="25%"><br>  
+</div>
+</figure>
 * Price: $49.99
 * Vendor: Syvio
 * Description: This humidifier can hold up to 2.8L of water, and uses a humidity sensor to prevent over-humidification. This humidifier comes with 3 optional humidity levels, and also acts as an aroma diffuser.
@@ -87,11 +103,15 @@ Keywords: “Weather Station Wifi”
 Search Results Link: Link
 #### Selected Products
 5. Tempest Weather System
-
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://m.media-amazon.com/images/I/31TaKuy4jtL.jpg" width="45%"><br>  
+</div>
+</figure>
 * Price: $329.00
 * Vendor: WeatherFlow
 * Description: The weather system has a built-in wind meter. Rain gauge, light and pressure sensors, as well as being able to detect temperature and humidity.
-### Organizing Need Statements:
+### Organizing Need Statements
 #### Initial Notes
 #### Grouped Notes
 ##### Grouped Notes Key:
