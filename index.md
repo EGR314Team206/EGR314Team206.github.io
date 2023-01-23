@@ -96,6 +96,7 @@ To determine common user needs for devices using sensors for various weather con
 </figure>
 
 **Positive Comments**
+
 | Voice of the customer | Restated Customer Needs|
 |---|---|
 |“. Rain gage that measures not only the amount of rain but hourly rain fall as well as 24 hour rain fall, weekly, monthly and rain event totals. The unit has a wind vain and anemometer for wind direction and speed, of course. It also has temperature with heat index and wind chill. We have a pool so I love that the unit measures UV index and Solar Radiation. Assembly: Not too difficult. Everything goes together pretty easy if you have a basic knowledge of putting things together. As for the unit itself the wind gauge does not look to read over 99.9 mph.”|1. The product is easy to assemble (explicit). <br> 2. It measures all aspects of weather, even less conventional ones, including UV index and radiation. (latent) <br> 3. The product should work for extreme weather conditions (latent).|
@@ -103,6 +104,7 @@ To determine common user needs for devices using sensors for various weather con
 |“1. Functional Design. The Ambient Weather station (AW) is the clear winner and way, way ahead of Acurite (AR). For starters, the internet connectivity is built-in and utilizes wireless. That is a horribly outdated and expensive design. Setup with the AW station was a breeze...I was assembled, mounted, and up and running on Wunderground within 20 minutes, and most of that was with the physical assembly. <br> 2. Accuracy. Once again, AW is the clear winner. All the readings on the AW were spot on right out of the box. Temp, rainfall, etc were good with no calibration necessary - though all readings can be calibrated if needed, that functional adjustment is built into the console. <br> 3. Durability. This is the one area I cannot yet commend the AW on, only time will tell. It appears to be a better-built unit so I am optimistic and will update this review as necessary.”| Functional design (explicit) <br> 2. Accurate readings (explicit) <br> 3. No calibration needed (latent) <br> 4. Durable (explicit)|
 
 **Negative Comments**
+
 | Voice of the customer | Restated Customer Needs|
 |---|---|
 |“Couldn't connect the console to an Android phone, an iPhone, or an iPad. A WiFi connection never worked. The process just kept moving in an endless circle of "reconnect" warnings. <br> The console screen display sucks. Amazon reviewers mention an "upgrade" to the console in the "C" version, to make it more readable. I received the "D" version and the console screen is just barely readable in room light. Any sunlight overwhelms the display.”|1. Needs to be able to easily connect to non-computers (smartphones, tablets). (latent) <br> 2. User interface on app needs to be clear and focused on functionality (latent) <br> 3. Needs console screen bright enough to read in direct sunlight (explicit)|
@@ -175,8 +177,8 @@ To determine common user needs for devices using sensors for various weather con
 |“This is not user friendly. Mine shuts off randomly and I’m constantly getting an error (E2) with an annoying beeping sound. Bought a cheap $20 one that works much better. Don’t waste your money on this!”|1. Should be inexpensive (Explicit) <br> 2. Programmed properly to prevent unnecessary errors. (Latent) <br> 3. Does not produce too much noise. (Explicit)|
 
 #### Search #5
-**
-Keywords:** “Weather Station Wifi”
+
+**Keywords:** “Weather Station Wifi”
 
 **Search Results Link:** [Link](https://www.amazon.com/s?k=weather+station+wifi&crid=231KER4S305DB&sprefix=weather+station+wifi%2Caps%2C138&ref=nb_sb_noss_1)
 #### Selected Products
@@ -229,6 +231,7 @@ I just can not get more than 10 min of data when on battery power, disconnect po
 
 #### Ranked Notes
 ##### Ranked Notes Key:
+
 |Amount of Stars|Amount of importance|
 |---|---|
 |3 Stars:|Very Important|
