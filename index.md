@@ -226,6 +226,13 @@ I just can not get more than 10 min of data when on battery power, disconnect po
 </figure>
 
 #### Grouped Notes
+
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://user-images.githubusercontent.com/122709787/214116096-13ec02ca-005a-4afa-b22a-cb1dd1958bc6.png" width="45%"><br>
+</div>
+</figure>
+
 ##### Grouped Notes Key:
 
 |Color:|Meaning:|
@@ -237,6 +244,13 @@ I just can not get more than 10 min of data when on battery power, disconnect po
 |Orange|Needs and Meta Needs|
 
 #### Ranked Notes
+
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://user-images.githubusercontent.com/122709787/214116180-2cc50e3e-7e87-4835-8ff1-bd9542341d74.png" width="45%"><br>
+</div>
+</figure>
+
 ##### Ranked Notes Key:
 
 |Amount of Stars|Amount of importance|
@@ -246,6 +260,13 @@ I just can not get more than 10 min of data when on battery power, disconnect po
 |1 Star:|Less Important|
 
 #### Compiled Notes
+
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://user-images.githubusercontent.com/122709787/214116243-0825968d-1118-4126-9046-b9f03bfbf8b6.png" width="45%"><br>
+</div>
+</figure>
+
 ### Assessment of User Needs:
 The process of forming the user needs statements started with the benchmarking assignment which helped the team understand what consumers expected out of their product and what they thought the product needed improvement on. The team took the positive and negative comments and turned them into user needs. Once the user needs were made, they were separated into groups based on the description. The groups became accuracy, durability, usability/user interaction, and convenience/safety. Safety included all those that revolved around how the product would mitigate harm to the user. Accuracy referred to how the user would interact with the product. Quality dealt with using durable materials to prevent the need to replace parts. The instructions category was for documentation on the item to avoid facilitator or user error. These 5 categories seemed to encapsulate most aspects of the user needs based on the benchmarking process. 
 ### Weighting of User Needs:
@@ -377,17 +398,71 @@ System Verification Final Deadline: 4/24/2023
 To maximize the possible design concepts for the mobile weather station, over one hundred different ideas were brainstormed that covered possible movement, material, and electrical components. The team first began by thinking of different ways in which the sensors could be used, and created ideas off that. Then the team dived into research of what needs user’s have with similar devices.
 
 ### 100+ Generated Ideas
+
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://user-images.githubusercontent.com/122709787/214116311-40511671-f01c-4196-bb75-e4e6fbd40425.png" width="45%"><br>
+</div>
+</figure>
+
 After organizing the ideas, the team started by eliminating movement possibilities that didn’t seem to be the most suitable for the remote weather station. Items that didn’t meet our stakeholders needs were excluded with a primary focus on a lack of accuracy required for functioning. Once there were three categories of specific ideas, the team began to eliminate any potential ideas that wouldn’t coincide with the chosen idea. After compiling all of the ideas, the specified general idea groups would become the three design concepts outlined below.
 The rankings as seen in the stars of each major category of needs was chosen based on the device and how important it was to the user for the product to have such requirements.
 
 ### Three Chosen Ideas
+
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://user-images.githubusercontent.com/122709787/214116436-f0d1f49a-0f96-4a50-be69-5faf61e4f8c9.png" width="45%"><br>
+</div>
+</figure>
+
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://user-images.githubusercontent.com/122709787/214116548-021481ad-4eaa-4471-9d1e-e3ad41df61db.png" width="45%"><br>
+</div>
+</figure>
+
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://user-images.githubusercontent.com/122709787/214116605-83a6d0e9-b122-42e4-9baf-28e6624f695a.png" width="45%"><br>
+</div>
+</figure>
+
 ### Ranked Ideas
+
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://user-images.githubusercontent.com/122709787/214116605-83a6d0e9-b122-42e4-9baf-28e6624f695a.png" width="45%"><br>
+</div>
+</figure>
+
 ### Design Concepts
 The team worked together to come up with the overall design of the three concepts, and with the help of Gavin, Abigail, and Jacob, they sketched each concept.
 
 #### Concept 1
+
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://user-images.githubusercontent.com/122709787/214116605-83a6d0e9-b122-42e4-9baf-28e6624f695a.png" width="45%"><br>
+</div>
+</figure>
+
 #### Concept 2
+
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://user-images.githubusercontent.com/122709787/214116605-83a6d0e9-b122-42e4-9baf-28e6624f695a.png" width="45%"><br>
+</div>
+</figure>
+
 #### Concept 3
+
+<figure class="image">  
+<div style="text-align: center">  
+<img src="https://user-images.githubusercontent.com/122709787/214116605-83a6d0e9-b122-42e4-9baf-28e6624f695a.png" width="45%"><br>
+</div>
+</figure>
+
 ## Appendix A: Team Organization
 To go back to the “Team Establishment” section please click here.
 
