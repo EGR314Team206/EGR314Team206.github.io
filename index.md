@@ -218,11 +218,6 @@ I just can not get more than 10 min of data when on battery power, disconnect po
 
 ### Organizing Need Statements
 #### Initial Notes
-<figure class="image">  
-<div style="text-align: center">  
-<img src="InitalNotes.jpg" width="45%"><br>  
-</div>
-</figure>
 #### Grouped Notes
 ##### Grouped Notes Key:
 
