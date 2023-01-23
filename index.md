@@ -418,15 +418,16 @@ The rankings as seen in the stars of each major category of needs was chosen bas
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214116548-021481ad-4eaa-4471-9d1e-e3ad41df61db.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214118667-aa4aca19-75c7-42b9-adf9-adaae294bac9.png" width="45%"><br>
 </div>
 </figure>
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/214116605-83a6d0e9-b122-42e4-9baf-28e6624f695a.png" width="45%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/214116548-021481ad-4eaa-4471-9d1e-e3ad41df61db.png" width="45%"><br>
 </div>
 </figure>
+
 
 ### Ranked Ideas
 
