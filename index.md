@@ -221,7 +221,7 @@ I just can not get more than 10 min of data when on battery power, disconnect po
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="C:\Users\croge\Downloads\InitalNotes.jpg" width="45%"><br>  
+<img src="\Users\croge\Downloads\InitalNotes.jpg" width="45%"><br>  
 </div>
 </figure>
 
