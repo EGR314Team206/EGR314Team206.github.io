@@ -112,6 +112,8 @@ Search Results Link: Link
 * Vendor: WeatherFlow
 * Description: The weather system has a built-in wind meter. Rain gauge, light and pressure sensors, as well as being able to detect temperature and humidity.
 ### Organizing Need Statements
+#### Process
+The team used jamboards to collect all thoughts and ideas to make user needs statements. The jamboard helped organize the needs into different categories to help understand what the user wants. This process took all four team members and was done over several hours. This allowed the team to fully grasp who the users were, what they needed, and what the team was to design. Overall, the jamboard process was a useful tool for the user needs assignment. 
 #### Initial Notes
 #### Grouped Notes
 ##### Grouped Notes Key:
@@ -130,10 +132,14 @@ The goal of this project is to plan, design, and develop a mobile weather sensin
 Rural Dwellers - Those in remote locations may not have accurate weather forecasts or data. With this mobile weather station device, they can respond accordingly to accurate data. Or have an automatic system to do so.
 
 Miners - Those in harsh working industrial environments need to keep workers safe from high pollution, heatstroke, and humidity.
+#### Manufacturers:
+Manufacturers - They will decide the process of manufacturing and the materials needed to make the design. 
+#### Sellers:
+Sellers - They will be in charge of how the product is distributed to the users and the marketing behind the product. 
 #### Use Cases
 _Use Case 1:_ 
 
-34-year-old Steven works as an engineer at WeatherFlow. This year he decided to attend the Innovation Showcase at ASU to review some of the products some of the students have made. He heard that the main focus of the devices was sensing various changes of weather, such as temperature, humidity, and wind speed. Steven is looking for products that can use these variables, and display them on his phone. He is looking to hire some bright, inventive designers that could help improve the products they make.
+34-year-old Steven works as an engineer at WeatherFlow. This year he decided to attend the Innovation Showcase at ASU to review some of the products. Steven is looking for products that sense changes in weather, such as temperature, humidity, and wind speed. He wants these variables to display his phone. He is looking for ideas to bring back to his company.
 
 _Use Case 2:_ 
 
