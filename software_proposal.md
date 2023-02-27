@@ -2,6 +2,8 @@
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122835375/221467031-65a967cf-865b-4cd6-b573-68523e338569.png" width="70%"><br>
+<img src="https://user-images.githubusercontent.com/122835375/221467891-7b742a46-1d25-405e-a55a-2ba0e9d63788.png" width="110%"><br>
 </div>
 </figure>
+
+Figure #: Sofware Proposal
