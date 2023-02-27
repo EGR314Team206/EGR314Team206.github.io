@@ -2,8 +2,15 @@
 title: Mobile Enviromental Sensing Report
 ---
 
-HERE IS THE TESTING TO SeE iF the LiNk to other files work
+**Pages**
+
 [Block Diagram](block_diagram.md)
+[Component Selection](component_selection.md)
+[Microcontroller Selection](microcontroller_selection.md)
+[Hardware Proposal](hardware_proposal.md)
+[Software Proposal](software_proposal.md)
+
+
 
 # Mobile Enviromental Sensing Report
 **Team 206**
