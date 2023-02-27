@@ -1,29 +1,8 @@
-Home
+Mobile Enviromental Sensing Report
 ====
 
----
-title: Mobile Enviromental Sensing Report
----
-
-ASU EGR314 Team 206
+ASU Embedded Systems II EGR314 Team 206
 -------------------
-
-# Table of Contents
-
-###[Block Diagram](block_diagram.md)
-
-###[Component Selection](component_selection.md)
-
-###[Microcontroller Selection](microcontroller_selection.md)
-
-###[Hardware Proposal](hardware_proposal.md)
-
-###[Software Proposal](software_proposal.md)
-
-###[Selected Design](selected_design.md)
-
-# Mobile Enviromental Sensing Report
-**Team 206**
 
 _Team Member Names:_ 
 
@@ -36,6 +15,21 @@ _Jacob Pisors, Claire Rogers, Gavin Benvenuto, Abby Gordon_
 **Dr. Aukes**
 
 **Spring 2023**
+
+# Table of Contents
+
+### [Block Diagram](block_diagram.md)
+
+### [Component Selection](component_selection.md)
+
+### [Microcontroller Selection](microcontroller_selection.md)
+
+### [Hardware Proposal](hardware_proposal.md)
+
+### [Software Proposal](software_proposal.md)
+
+### [Selected Design](selected_design.md)
+
 
 ## Introduction
 
