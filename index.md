@@ -1,8 +1,8 @@
 Mobile Enviromental Sensing Report
 ====
 
-ASU Embedded Systems II EGR314 Team 206
--------------------
+ASU EGR-314: Embedded System Design Project II
+---------------------------------------------
 
 _Team Member Names:_ 
 
@@ -10,13 +10,19 @@ _Jacob Pisors, Claire Rogers, Gavin Benvenuto, Abby Gordon_
 
 **_Last Updated: 27 Feburary 2023_**
 
-**ASU EGR-314: Embedded System Design Project II**
-
-**Dr. Aukes**
-
-**Spring 2023**
+**Dr. Aukes** | **Spring 2023**
 
 # Table of Contents
+
+### [Team Organization](team_organization.md)
+
+### [User Needs & Benchmarking](user_needs.md)
+
+### [Product Requirements](product_requirements.md)
+
+### [Design Ideation](design_ideation.md)
+
+### [Selected Design](selected_design.md)
 
 ### [Block Diagram](block_diagram.md)
 
@@ -28,8 +34,13 @@ _Jacob Pisors, Claire Rogers, Gavin Benvenuto, Abby Gordon_
 
 ### [Software Proposal](software_proposal.md)
 
-### [Selected Design](selected_design.md)
+### [Appendix A:Team Organization](Appendix_A.md)
 
+### [Appendix B: ](Appendix_B.md)
+
+## Code Repository
+
+**[github](https://github.com/EGR314Team206/egr314team206.github.io)**
 
 ## Introduction
 
