@@ -2,6 +2,9 @@
 title: Mobile Enviromental Sensing Report
 ---
 
+HERE IS THE TESTING TO SeE iF the LiNk to other files work
+[Block Diagram](block_diagram.md)
+
 # Mobile Enviromental Sensing Report
 **Team 206**
 
