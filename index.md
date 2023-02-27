@@ -5,10 +5,16 @@ title: Mobile Enviromental Sensing Report
 **Pages**
 
 [Block Diagram](block_diagram.md)
+
 [Component Selection](component_selection.md)
+
 [Microcontroller Selection](microcontroller_selection.md)
+
 [Hardware Proposal](hardware_proposal.md)
+
 [Software Proposal](software_proposal.md)
+
+[Selected Design](selected_design.md)
 
 
 
