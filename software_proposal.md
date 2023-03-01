@@ -1,5 +1,5 @@
 # Software Proposal
-
+<div align="center">
 <figure class="image">  
 <div style="text-align: center">  
 <img src="https://user-images.githubusercontent.com/122835375/221472630-ec051f7d-d839-4d41-a133-48321d00176f.png" width="30%"><br>
@@ -23,5 +23,8 @@
 <img src="https://user-images.githubusercontent.com/122835375/221472759-beec5425-6233-4f0c-9147-29f43acb3e1c.png" width="70%"><br>
 </div>
 </figure>
+</div>
 
+<p align="center">
 Figure #1: Sofware Proposal
+</p>
