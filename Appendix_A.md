@@ -32,7 +32,7 @@ Claire Rogers will be responsible for instructor correspondence and will communi
 ### Meeting Schedule
 _Team Prefered Meeting Time:_
 
-As shown above, every point that is highlighted in green represents times that all team members will be available to discuss/work on assignments.. For our team, each of us are available on Friday from noon to 2pm. Therefore we will meet on Friday at noon each week as seen in the above **Table 2**.
+As shown above, every point that is highlighted in green represents times that all team members will be available to discuss/work on assignments. For our team, each of us are available on Friday from noon to 2pm. Therefore we will meet on Friday at noon each week as seen in the above **Table 2**.
 
 ### Meeting Coordination
 _Team Meeting Reminder:_
