@@ -19,4 +19,4 @@
 
 ## Our Scehmatic design
 
-[To Download](https://github.com/EGR314Team206/egr314team206.github.io/files/10842676/SystemDesignCheckpoint2.pdf)
+[To Download](https://github.com/EGR314Team206/egr314team206.github.io/files/10857227/SystemDesign.pdf)
