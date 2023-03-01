@@ -1,3 +1,19 @@
+## Product Requirements
+### Objectives
+The goal of this project is to plan, design, and develop a mobile weather sensing station with a motorized control response to show off to companies, professionals, and peers. As well as create a GitHub website for personal portfolios to demonstrate application of embedded systems to future prospects.
+### Stakeholders
+#### Users:
+Rural Dwellers - Those in remote locations may not have accurate weather forecasts or data. With this mobile weather station device, they can respond accordingly to accurate data. Or have an automatic system to do so.
+
+Miners - Those in harsh working industrial environments need to keep workers safe from high pollution, heatstroke, and humidity.
+#### Use Cases
+_Use Case 1:_ 
+
+34-year-old Steven works as an engineer at WeatherFlow. This year he decided to attend the Innovation Showcase at ASU to review some of the products some of the students have made. He heard that the main focus of the devices was sensing various changes of weather, such as temperature, humidity, and wind speed. Steven is looking for products that can use these variables, and display them on his phone. He is looking to hire some bright, inventive designers that could help improve the products they make.
+
+_Use Case 2:_ 
+
+56-year-old John is a farmer who is used to using various sensors to detect changes in weather. However, he's never known how these sensors work. He’s heard a couple things such as the differences between serial and analog sensors, but he’s never actually known what they meant. He heard that ASUs Innovation Showcase has products that fit this exact description. So, he decided to attend it this year to get a little more insight as to how the equipment he commonly uses works. 
 ### Converting Use Needs into Specifications
 Below are the design aspects which our team derived from benchmarking and  user needs. After compiling and ranking the user needs, inspiration was drawn from categories and simplified into the various design aspects below. The top ranked user needs with the highest frequency would become product requirements.
 ### Design Aspects
