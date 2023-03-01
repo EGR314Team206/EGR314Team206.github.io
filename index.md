@@ -61,6 +61,7 @@ Component Selection describes each component selected and a brief paragraph as t
 In Microcontroller Selection, it has reasoning on why we chose this microcontroller as well as images of the Surface Mount and  Through-Hole versions. It also links to the products page and its datasheet. For more information on Microcontroller Selection, please see [Appendix C](Appendix_C.md)
 
 ## [Hardware Proposal](hardware_proposal.md)
+Our Hardware Proposal shows how all of our components connect with one another while explaining wha team member what control over what subsystem. To see the power budget of this system, please see [Appendix D](Appendix_D.md). If you would also like to download a copy of the system design click [here](https://github.com/EGR314Team206/egr314team206.github.io/files/10842676/SystemDesignCheckpoint2.pdf).
 
 ## [Software Proposal](software_proposal.md)
 
