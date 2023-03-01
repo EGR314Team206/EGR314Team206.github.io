@@ -24,4 +24,4 @@
 </div>
 </figure>
 
-Figure #: Sofware Proposal
+Figure #1: Sofware Proposal
