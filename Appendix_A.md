@@ -1,4 +1,4 @@
-## Appendix A: Team Organization
+## Appendix A:  Team Organization
 To go back to the “Team Establishment” section please click here.
 
 _Goals:_
