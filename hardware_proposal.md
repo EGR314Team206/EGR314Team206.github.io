@@ -17,6 +17,6 @@
 ### Motor and Motor driver
   Our motor (35L048B1B) and motor driver (IFX9201SG) both operate at 9V and will function based on the information given by the anemometer. We plan to have it turn a sail based on the direction of the wind. It will using an SPI module and will be managed by Abigail Gordon
 
-## Our Scehmatic design
+## Our Schematic design
 
 [To Download](https://github.com/EGR314Team206/egr314team206.github.io/files/10857227/SystemDesign.pdf)
