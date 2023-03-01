@@ -67,3 +67,6 @@ The team worked together to come up with the overall design of the three concept
 <img src="https://user-images.githubusercontent.com/122709787/214116804-5879344e-ecd6-46a9-97c6-dc4ecd067f28.png" width="70%"><br>
 </div>
 </figure>
+
+#### Satisfying User Needs with Design Concepts
+Each of these design concepts satisfy requirements in the following ways. The first design uses a temperature sensor to control the atmosphere for an animal so it would be similar to a habitat type environment. The sensors would use I2C and the motor to open and close the door would be SPI. For the second design, there would be a wind and pressure sensor which is part of the project requirements. The third design is a sailboat that senses wind speed and humidity using sensors. These sensors would require I2C and a motor would move the sail using SPI interface. The design satisfies user needs since the moisture sensor helps the boat only to activate when in water. This saves on battery life and makes it more convenient and user friendly for the user. The motor controls movement via sail, instead of a rudder and propeller. This makes it safer for the user. Lastly the placement of the wind sensor on the top of the mast allows for better readings and thus more accuracy that the user required for the design. 
