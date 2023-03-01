@@ -6,16 +6,17 @@
 ## Subsystems
 
 ### Microcontroller/Voltage Regulator
-  Our microcontroller(PIC18F27Q10) connects to every other system on our board, including our LED array, button with pullup resistor, ESP32. The ESP32 allows us to connect to wifi. It has 2 SPI and 2 I2C modules which can be used with our motor driver and ADC's.
+  Our microcontroller (PIC18F27Q10) connects to every other system on our board, including our LED array, button with pullup resistor, and ESP32. The ESP32 allows us to connect to wifi. It has 2 SPI and 2 I2C modules which can be used with our motor driver and ADC's. It will be managed by Gavin Benvenuto.
 
 ### Wind Sensor
-  Our Anemometer can detect wind speed and send it as an analog signal into one or our ADC's MCP34421T-E/SN_CER). It will convert this into a digital signal which is then sent back to our microcontroller. We can use this to determine the direction of the wind which can be used to determine what direction to turn the sail in. It will be using one of the I2C modules.
+  Our Anemometer can detect wind speed and send it as an analog signal into one or our ADC's (MCP34421T-E/SN_CER). It will convert this into a digital signal which is then sent back to our microcontroller. We can use this to determine the direction of the wind which can be used to determine what direction to turn the sail in. It will be using one of the I2C modules and will be managed by Claire Rogers
   
 ### Moisture Sensor
-  We plan to make a custom moisture sensor for our system, which will send a signal to our second ADC(MCP3426). This will allow us to detect wether or not our system in in water and allow the rest of the system to operate. It will be using one of the I2C modules.
+  We plan to make a custom moisture sensor for our system, which will send a signal to our second ADC (MCP3426). This will allow us to detect wether or not our system in in water and allow the rest of the system to operate. It will be using one of the I2C modules and be managed by Jacob Pisors
   
 ### Motor and Motor driver
-Our motor(35L048B1B) and motor driver(IFX9201SG) both operate at 9V and will function based on the information given by the anemometer. We plan to have it turn a sail based on the direction of the wind. It will using an SPI module.
+  Our motor (35L048B1B) and motor driver (IFX9201SG) both operate at 9V and will function based on the information given by the anemometer. We plan to have it turn a sail based on the direction of the wind. It will using an SPI module and will be managed by Abigail Gordon
 
 ## Our Scehmatic design
-[SystemDesignCheckpoint2.pdf](https://github.com/EGR314Team206/egr314team206.github.io/files/10842676/SystemDesignCheckpoint2.pdf)
+
+[To Download](https://github.com/EGR314Team206/egr314team206.github.io/files/10842676/SystemDesignCheckpoint2.pdf)
