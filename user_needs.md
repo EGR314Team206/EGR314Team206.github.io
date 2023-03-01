@@ -180,6 +180,8 @@ I just can not get more than 10 min of data when on battery power, disconnect po
 
 
 ### Organizing Need Statements
+### Process:
+The team used jamboards to collect all thoughts and ideas to make user needs statements. The jamboard helped organize the needs into different categories to help understand what the user wants. This process took all four team members and was done over several hours. This allowed the team to fully grasp who the users were, what they needed, and what the team was to design. Overall, the jamboard process was a useful tool for the user needs assignment. 
 #### Initial Notes
 
 <figure class="image">  
