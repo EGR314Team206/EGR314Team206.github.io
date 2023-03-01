@@ -72,7 +72,7 @@ Our software proposal shows the process in which our code will function, how the
 
 # Appendices
 
-## [Appendix A:Team Organization](Appendix_A.md)
+## [Appendix A: Team Organization](Appendix_A.md)
 
 ## [Appendix B: Component Selection Table](Appendix_B.md)
 
