@@ -234,19 +234,4 @@ I just can not get more than 10 min of data when on battery power, disconnect po
 The process of forming the user needs statements started with the benchmarking assignment which helped the team understand what consumers expected out of their product and what they thought the product needed improvement on. The team took the positive and negative comments and turned them into user needs. Once the user needs were made, they were separated into groups based on the description. The groups became accuracy, durability, usability/user interaction, and convenience/safety. Safety included all those that revolved around how the product would mitigate harm to the user. Accuracy referred to how the user would interact with the product. Quality dealt with using durable materials to prevent the need to replace parts. The instructions category was for documentation on the item to avoid facilitator or user error. These 5 categories seemed to encapsulate most aspects of the user needs based on the benchmarking process. 
 ### Weighting of User Needs:
 After that was the ranking process, this was a discussion on what was deemed the most important and least important to the project design. Durability, and user engagement deserved three stars, accuracy deserved two stars, and convenience/safely deserved one star. Durability and user engagement/experience were three stars because those were highlighted the most in the benchmarking. The accuracy deserved two stars is not as essential as the above groups. The convenience/safety were 1 star because it is not as important as the other categories since it is not a hazardous product and most customers purchasing this product expect some setup. Overall, the user needs process was very useful in helping the understanding of what the customers wanted. 
-## Product Requirements
-### Objectives
-The goal of this project is to plan, design, and develop a mobile weather sensing station with a motorized control response to show off to companies, professionals, and peers. As well as create a GitHub website for personal portfolios to demonstrate application of embedded systems to future prospects.
-### Stakeholders
-#### Users:
-Rural Dwellers - Those in remote locations may not have accurate weather forecasts or data. With this mobile weather station device, they can respond accordingly to accurate data. Or have an automatic system to do so.
 
-Miners - Those in harsh working industrial environments need to keep workers safe from high pollution, heatstroke, and humidity.
-#### Use Cases
-_Use Case 1:_ 
-
-34-year-old Steven works as an engineer at WeatherFlow. This year he decided to attend the Innovation Showcase at ASU to review some of the products some of the students have made. He heard that the main focus of the devices was sensing various changes of weather, such as temperature, humidity, and wind speed. Steven is looking for products that can use these variables, and display them on his phone. He is looking to hire some bright, inventive designers that could help improve the products they make.
-
-_Use Case 2:_ 
-
-56-year-old John is a farmer who is used to using various sensors to detect changes in weather. However, he's never known how these sensors work. He’s heard a couple things such as the differences between serial and analog sensors, but he’s never actually known what they meant. He heard that ASUs Innovation Showcase has products that fit this exact description. So, he decided to attend it this year to get a little more insight as to how the equipment he commonly uses works. 
