@@ -70,6 +70,15 @@ Our Hardware Proposal shows how all of our components connect with one another w
 
 Our software proposal shows the process in which our code will function, how the system will initialize, and what data is being output. It has images of the state diagrams made and descirbes what the main purpose of each one is.
 
+## [Hardware Implementation](Hardware_Implementation.md)
+
+
+This section shows the latest iteration of our team board, and shows what problems were itentified with previous iterations, as well as what we did to solve them. It also explains the decisions made for certain design choices.
+
+## [Software Implementation](Software_Implementation.md)
+
+In this section, we show the "skeleton" of our code, describes what is it does, and how it does it. We also show how we used MPLABS Code Configurator (MCC), and how it relates to what we want our board to do.
+
 # Appendices
 
 ## [Appendix A: Team Organization](Appendix_A.md)
