@@ -1,4 +1,9 @@
 # Power Budget Table
-![Screenshot (190)](https://user-images.githubusercontent.com/122958638/222040949-60bbc54f-11c8-4363-b160-c3751e4085b4.png)
+![Screenshot (89)](https://user-images.githubusercontent.com/122958638/234712853-1ff88ce8-08f4-4912-8af5-5290323f2415.png)
 
-![Screenshot (191)](https://user-images.githubusercontent.com/122958638/222040926-6d798341-995e-4fcb-abf2-dd6895134cb4.png)
+![Screenshot (88)](https://user-images.githubusercontent.com/122958638/234712760-2d9481b9-ce3a-45c9-a403-1859ddf1dd1e.png)
+
+![Screenshot (86)](https://user-images.githubusercontent.com/122958638/234712207-7c6bc92a-f320-44b4-865f-f11c851dc77e.png)
+
+![Screenshot (87)](https://user-images.githubusercontent.com/122958638/234712241-93bd9f56-3a70-4561-9bd0-f0d8dfc70993.png)
+
