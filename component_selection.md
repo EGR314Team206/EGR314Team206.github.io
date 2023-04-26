@@ -18,7 +18,7 @@ The target voltage for the system's motor is 3.3V or 9V. The selected motor is a
 
 **Component #2:** Motor Driver (IFX9201SGAUMA1).
 
-This motor driver was provided in class so the team is already faamiliar with its propoerties. It is able to operate between 5V and 36V which fits the need of the 9V power rail.
+This motor driver was provided in class so the team is already familiar with its propoerties. It is able to operate from -.3v to 40V which means it can operate at either 9V or 3.3V, 
 
 <figure class="image">  
 <div style="text-align: center">  
@@ -28,7 +28,7 @@ This motor driver was provided in class so the team is already faamiliar with it
 
 **Component #3:** Texas Instruments Voltage Regulator (LM2575S-3.3G).
 
-This component was also provided in class which means the team has had previous experience with it. Two of these voltage regulators will be used because there is a 3.3V power rail, as well as a 9V power rail. Since this component is able to regulate anywhere between 4.75V and 40V, it will be able to be used for both of these power rails.
+This component was also provided in class which means the team has had previous experience with it. Two of these voltage regulators will be used because there is a 3.3V power rail, as well as a 9V power rail. Since this component is able to regulate anywhere between 7V and 40V, it can regulate any voltage from 7V to 40V down to 3.3V making it the idea component for our system.
 
 <figure class="image">  
 <div style="text-align: center">  
@@ -46,16 +46,6 @@ This anemometer is relatively inexpensive and operates within the given voltage 
 </div>
 </figure>
 
-**Component #5:** Microchip Technology / Atmel Analog to Digital Converter (MCP3422A1T-E/SN).
-
-This is the first of two different analog to digital converters that will be used for this project. It operates between 2.7V and 5.5V, and contains an I2C data interference which fills a project requirement.
-
-<figure class="image">  
-<div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122958638/222026599-9fe4f85d-87ed-46d8-9f5d-f704d4a67080.png" width="30%"><br>
-</div>
-</figure>
-
-**Component #6:** Microchip Technology Analog to Digital Converter (MCP3426A0T-E/SN).
+**Component #5:** Microchip Technology Analog to Digital Converter (MCP3426A0T-E/SN).
 
 The second anaolog to digital converter also operates between 2.7V and 5.5V which works with the 3.3V power rail, and also fulfills the I2C component of the project requirements. 
