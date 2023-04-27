@@ -23,4 +23,4 @@
 ## Our Schematic design
 
 This shows the first iteration of our full Schematic:
-[To Download](https://github.com/EGR314Team206/egr314team206.github.io/files/10857227/SystemDesign.pdf)
+[To Download](https://github.com/EGR314Team206/egr314team206.github.io/blob/main/SystemDesign_Sch.pdf)
