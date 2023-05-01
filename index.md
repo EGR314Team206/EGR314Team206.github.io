@@ -100,6 +100,10 @@ We hope that these recommendations help students in the future who are having tr
 
 ## [Appendix D: Power Budget](Appendix_D.md)
 
+## [Appendix E: Bill of Materials](Appendix_E.md)
+
+## [Appendix F: System Verification Table](Appendix_F.md)
+
 # Code Repository
 
 **[github](https://github.com/EGR314Team206/egr314team206.github.io)**
