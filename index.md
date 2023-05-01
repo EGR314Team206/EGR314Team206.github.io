@@ -60,12 +60,12 @@ Component Selection describes each component selected and a brief paragraph as t
 
 In Microcontroller Selection, it has reasoning on why we chose this microcontroller as well as images of the Surface Mount and  Through-Hole versions. It also links to the products page and its datasheet. For more information on Microcontroller Selection, please see [Appendix C](Appendix_C.md)
 
-## [Hardware Proposal](hardware_proposal.md)
+## [Hardware Implementation](hardware_proposal.md)
 
 
 Our Hardware Proposal shows how all of our components connect with one another while explaining wha team member what control over what subsystem. We also have the latest iteration of our board, showing the top, and bottom copper planes. To see the power budget of this system, please see [Appendix D](Appendix_D.md). If you would also like to download a copy of the system design click [here](https://github.com/EGR314Team206/egr314team206.github.io/files/10857227/SystemDesign.pdf). If you would like to download a visual representation of our board click [here](NEEDS PHOTOS).
 
-## [Software Proposal](software_proposal.md)
+## [Software Implementation](software_proposal.md)
 
 
 Our software proposal shows the process in which our code will function, how the system will initialize, and what data is being output. It has images of the state diagrams made and descirbes what the main purpose of each one is. We also show the "skeleton" of our code, and describe waht it does/how it does it.
