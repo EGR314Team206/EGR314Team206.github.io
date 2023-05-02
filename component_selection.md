@@ -1,12 +1,10 @@
 # Component Selection
 
-<div align="center">
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/235598763-9460ddb4-39cc-43eb-b1b1-e95e1ef410b8.png" width="70%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/235598763-9460ddb4-39cc-43eb-b1b1-e95e1ef410b8.png" width="30%"><br>
 </div>
 </figure>
-</div>
 
 
 **Component #1:** Bidirectional Motor (1568-1660-ND).
