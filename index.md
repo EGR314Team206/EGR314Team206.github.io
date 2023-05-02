@@ -106,6 +106,8 @@ Hopefully these recommendations help students in the future who are having troub
 
 ## [Appendix G: Topic Table](Appendix_G.md)
 
+## [Appendix H: MPLAB X IDE Setup](Appendix_H.md)
+
 # Code Repository
 
 **[github](https://github.com/EGR314Team206/TeamCode)**
