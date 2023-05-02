@@ -1,10 +1,13 @@
 # Component Selection
 
+<div align="center">
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122958638/222025491-f2c8d79e-c821-431a-93d0-220d51c974fc.png" width="30%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/235598763-9460ddb4-39cc-43eb-b1b1-e95e1ef410b8.png" width="70%"><br>
 </div>
 </figure>
+</div>
+
 
 **Component #1:** Bidirectional Motor (1568-1660-ND).
 
@@ -32,7 +35,7 @@ This component was also provided in class which means the team has had previous 
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122958638/222026377-5fd7f5ed-a48d-4e04-a0b0-ed53afa8f781.png" width="30%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/235598671-1ad610fe-82a0-4cfb-a0f1-9cbdc61c2ce7.png" width="30%"><br>
 </div>
 </figure>
 
