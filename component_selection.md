@@ -8,7 +8,7 @@
 
 **Component #1:** Bidirectional Motor (1568-1660-ND).
 
-The team has access to this motor. This means we already have the component as well as the data sheet and knowledge of the device. DEspite this component being listed as 12V, we know it will operate at the 9V needed for our system. We know this solution will work for our board and also do not need to dedicate a portion of our budget to this component. 
+The team has access to this motor, meaning we already have the component as well as the data sheet and knowledge of the device. Despite this component being listed as 12V, we know it will operate at the 9V needed for our system. We know this solution will work for our board and also do not need to dedicate a portion of our budget to this component. 
 
 <figure class="image">  
 <div style="text-align: center">  
