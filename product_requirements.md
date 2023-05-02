@@ -90,13 +90,22 @@ Below are the design aspects which our team derived from benchmarking and  user 
 
 ### Open Questions
 * How can we design a product that is engaging and attracts attendants at the innovation showcase?
+  The product should have prototype that is visually appealing to attract visitors. 
+  
 * How would the wifi element be incorporated into our weather sensing design?
-* How can we use temperature/humidity sensing technology to solve a problem in our community?
+  Yes, the ESP32 was a critical part of the design and allowed us to receive data over WIFI. 
+  
 * Can we prioritize safety while still creating a product design that fits all other user needs? 
+  Of course, safety is a high priority and there were not any user needs that prohibited the team from incorporating it into the design.  
+  
 * Will there be room to expand upon our design once it is finished?
-* What elements can we include that would set our product apart from anything like it already on the market?
+  Yes, the team wanted to add a weather vane and GPS system to the boat as well. 
+  
 * In what ways can we incorporate a motor into a temperature/humidity sensor design?
+  The motor was used to adjust the direction of the sail on the boat. 
+  
 * How will the device utilize all project requirements while still being unique from other class designs? 
+  The device created was the only boat related project out of the entire class making it unique. 
 
 ### Assessing Designs
 To ensure designs meet the criteria above, they must be assessed. The manner in which they will be assessed is each design aspect category being weighted as follows: 30%: Durability/hardware, 30%: Usability/user interaction, 25%: Accuracy, and 15%: convenience/safety. Then, each sub-aspect will be assessed by each team member on completion on a scale of 1-3, where 1 is failure, 2 is partial success, and 3 is success. Upon averaging each team member's decisions the design assessment will be finished. At this point, design changes and adaptations will be discussed to increase the score of a design if the team chooses. This will ensure the final product meets requirements.
