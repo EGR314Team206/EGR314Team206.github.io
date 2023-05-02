@@ -2,7 +2,7 @@
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/235598763-9460ddb4-39cc-43eb-b1b1-e95e1ef410b8.png" width="30%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/235598671-1ad610fe-82a0-4cfb-a0f1-9cbdc61c2ce7.png" width="30%"><br>
 </div>
 </figure>
 
@@ -33,7 +33,7 @@ This component was also provided in class which means the team has had previous 
 
 <figure class="image">  
 <div style="text-align: center">  
-<img src="https://user-images.githubusercontent.com/122709787/235598671-1ad610fe-82a0-4cfb-a0f1-9cbdc61c2ce7.png" width="30%"><br>
+<img src="https://user-images.githubusercontent.com/122709787/235598763-9460ddb4-39cc-43eb-b1b1-e95e1ef410b8.png" width="30%"><br>
 </div>
 </figure>
 
