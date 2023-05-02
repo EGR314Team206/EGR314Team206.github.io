@@ -49,3 +49,12 @@ Figure 10.3: Controller Implementation
 <p align="center">
 Figure 10.4: Process Message
 </p>
+
+## Changes to Software Design
+Over of the course of the semester, we ran into a lot of issues. This was usually only associated with hardware. Either it didn't work or would fry as we put too much power into it. As a result, we had to change the hardware our, or sometimes, change the design of the board. In turn, we had to change the code to match whatever new components we had put on. Our 5 biggest changes to our diagram are as follows.
+
+1. In our main loop, we completely removed the "Determine direction of wind" state. Changing the anemometer to use a hall effect sensor had a hand in that.
+2. We moved to have our system check if it is in water to after checking the wind speed, as opposed to having it be the first state after interrupts.
+3. We put another block in to represent system initialization. This was more to show exactly what was being initialized, as well as what functions were being declared.
+4. We put in a block for enabling interrupts as well as our interrupt service routine.
+5. Finally, we actually went more into detail to show what the functions would look like in the code for a better understanding (i.e. "EUSART1_Initialize();")
