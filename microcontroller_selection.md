@@ -1,7 +1,7 @@
 # Microcontroller Selection
 
 ## Selected Microcontroller
-The microcontroller we decided to go with was the PIC18F27Q10, as not only does it have many similarities to the PIC18F47Q10, it also is the cheapest option at $1.48, with the least amount of pins to solder. It has 2 SPI and 2 I2C modules as well as compatibility to MCC Melody. It also has the RX and TX pins required to communicate with the ESP32. Its supply voltage range is 1.8-5.5V and can withstand up to 300mA, minimizing the chances of damaging it. Furthermore, since the PIC18F47Q10 shares many similiarities with the PIC18F27Q10, it will be easier to program, as it will have many of the same modules on MPLAB's code configurator.
+The microcontroller we decided to go with was the PIC18F27Q10, as not only does it have many similarities to the PIC18F47Q10, it also is the cheapest option at $1.48 with the least amount of pins to solder. It has 2 SPI and 2 I2C modules as well as compatibility to MCC Melody. It also has the RX and TX pins required to communicate with the ESP32. Its supply voltage range is 1.8-5.5V and can withstand up to 300mA, minimizing the chances of damaging it. Furthermore, since the PIC18F47Q10 shares many similiarities with the PIC18F27Q10, it will be easier to program, as it will have many of the same modules on MPLAB's code configurator.
 
 ## Images
 
