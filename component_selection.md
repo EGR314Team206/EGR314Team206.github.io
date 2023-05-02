@@ -18,7 +18,7 @@ The target voltage for the system's motor is 3.3V or 9V. The selected motor is a
 
 **Component #2:** Motor Driver (IFX9201SGAUMA1).
 
-This motor driver was provided in class so the team is already familiar with its propoerties. It is able to operate from -.3v to 40V which means it can operate at either 9V or 3.3V, 
+This motor driver was provided in class so the team is already familiar with its properties. It is able to operate from -.3v to 40V which means it can operate at either 9V or 3.3V. 
 
 <figure class="image">  
 <div style="text-align: center">  
@@ -28,7 +28,7 @@ This motor driver was provided in class so the team is already familiar with its
 
 **Component #3:** Texas Instruments Voltage Regulator (LM2575S-3.3G).
 
-This component was also provided in class which means the team has had previous experience with it. Two of these voltage regulators will be used because there is a 3.3V power rail, as well as a 9V power rail. Since this component is able to regulate anywhere between 7V and 40V, it can regulate any voltage from 7V to 40V down to 3.3V making it the idea component for our system.
+This component was also provided in class which means the team has had previous experience with it. Two of these voltage regulators will be used because there is a 3.3V power rail, as well as a 9V power rail. Since this component is able to regulate anywhere between 7V and 40V, it can regulate any voltage from 7V to 40V down to 3.3V making it the ideal component for our system.
 
 <figure class="image">  
 <div style="text-align: center">  
