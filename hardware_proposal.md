@@ -12,13 +12,13 @@
   Our Hall Effect Sensor can detect the angle of certain components and communicate with the microcontroller directly. We can use this to determine the angle of certain items. It used one of the I2C modules and was managed by Claire Rogers
   
 ### Moisture Sensor
-  We made a custom moisture sensor for our system, which consists of two wires that hand off the board. While in water, one can be powered by the other. This information is sent to our ADC (MCP3426). This allows us to detect wether or not our system in in water. It used one of the I2C communication lines was managed by Jacob Pisors
+  We made a custom moisture sensor for our system, which consists of two wires that hand off the board. While in water, one can be powered by the other. This information is sent to our ADC (MCP3426). This allows us to detect whether or not our system in water. It used one of the I2C communication lines was managed by Jacob Pisors
   
 ### Motor and Motor driver
-  Our motor and motor driver (IFX9201SG) both operat at 9V and function based on the information given by the hall effect sensor. We planned to have it turn a sail based on the direction detected by the hall effect sensor. It used an SPI module and was managed by Abigail Gordon
+  Our motor and motor driver (IFX9201SG) both operate at 9V and function based on the information given by the hall effect sensor. We planned to have it turn a sail based on the direction detected by the hall effect sensor. It used an SPI module and was managed by Abigail Gordon
   
 ### Meeting User Needs
-  We met user need by making a design that could not only detect whether or not the system is within water, but also is able to communicate this information over wifi.
+  We met users need by making a design that could not only detect whether or not the system is within water, but also is able to communicate this information over wifi.
 
 ## Our Schematic design
 
