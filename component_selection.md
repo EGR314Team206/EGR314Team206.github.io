@@ -9,7 +9,7 @@
 
 **Component #1:** Bidirectional Motor (1568-1660-ND).
 
-The team has access to this motor, meaning we already have the component as well as the data sheet and knowledge of the device. Despite this component being listed as 12V, we know it will operate at the 9V needed for our system. We know this solution will work for our board and also do not need to dedicate a portion of our budget to this component. 
+The team had access to this motor, meaning the team already had the component as well as the data sheet and knowledge of the device. Despite this component being listed as 12V, we know it will operate at the 9V needed for the system. This solution will work for the board and also do not need to dedicate a portion of the budget to this component. 
 
 <figure class="image">  
 <div style="text-align: center">  
@@ -19,7 +19,7 @@ The team has access to this motor, meaning we already have the component as well
 
 **Component #2:** Motor Driver (IFX9201SGAUMA1).
 
-This motor driver was provided in class so the team is already familiar with its properties. It is able to operate from -.3v to 40V which means it can operate at either 9V or 3.3V. 
+This motor driver was provided in class so the team was already familiar with its properties. It was able to operate from 3.3v to 40V which means it can operate at either 9V or 3.3V. 
 
 <figure class="image">  
 <div style="text-align: center">  
@@ -39,7 +39,7 @@ This component was also provided in class which means the team has had previous 
 
 **Component #4:** Hall Effect Sensor (AS5600-ASOM).
 
-This component was changed from the anemometer rather close to the due date of our project. Our team had easy access to this sensor and it would be much easier to get it working properly than the initial alternative component.
+This component was changed from the anemometer rather close to the due date of the project. The team had easy access to this hall effect sensor and it would be much easier to get it working properly than the initial alternative component.
 
 <figure class="image">  
 <div style="text-align: center">  
@@ -49,4 +49,4 @@ This component was changed from the anemometer rather close to the due date of o
 
 **Component #5:** Microchip Technology Analog to Digital Converter (MCP3426A0T-E/SN).
 
-The second anaolog to digital converter also operates between 2.7V and 5.5V which works with the 3.3V power rail, and also fulfills the I2C component of the project requirements. 
+The anaolog to digital converter also operates between 2.7V and 5.5V which works with the 3.3V power rail, and also fulfills the I2C component of the project requirements. 
