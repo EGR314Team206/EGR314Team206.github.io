@@ -38,7 +38,7 @@ This component was also provided in class which means the team has had previous 
 
 **Component #4:** Adafruit Anemometer (1733).
 
-This anemometer is relatively inexpensive and operates within the given voltage requirememts which fits the needs of the project.
+This anemometer is relatively inexpensive and operates within the given voltage requirements which fits the needs of the project.
 
 <figure class="image">  
 <div style="text-align: center">  
