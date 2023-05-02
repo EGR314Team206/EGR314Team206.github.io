@@ -1,4 +1,4 @@
-# Hardware Proposal
+# Hardware Implementation
 
 ## Schematic Design
   Our entire system is powered by 9V batteries that are connected to every other part of the system that requires power. Our design utilizes a switching voltage regulator that regulates voltage from 9V to 3.3V, meaning we have 2 power rails for the entire system. Most of the system is powered by the 3.3V such as the microcontroller, ADC, ESP32, hall effect sensor and OLED. However, three of our components will be powered by the 9V power rail such as the voltage regulator, motor driver and motor.
