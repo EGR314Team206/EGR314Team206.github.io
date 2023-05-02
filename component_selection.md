@@ -6,9 +6,9 @@
 </div>
 </figure>
 
-**Component #1:** Stepper Motor Hybrid Bipolar (1528-1062-ND).
+**Component #1:** Bidirectional Motor (1568-1660-ND).
 
-The target voltage for the system's motor is 3.3V or 9V. The selected motor is able to operate at 3.3V, which meets the needs of the project. It is also a bipolar motor that is not too expensive which makes it a good choice for this component.
+The team has access to this motor. This means we already have the component as well as the data sheet and knowledge of the device. DEspite this component being listed as 12V, we know it will operate at the 9V needed for our system. We know this solution will work for our board and also do not need to dedicate a portion of our budget to this component. 
 
 <figure class="image">  
 <div style="text-align: center">  
@@ -36,9 +36,9 @@ This component was also provided in class which means the team has had previous 
 </div>
 </figure>
 
-**Component #4:** Adafruit Anemometer (1733).
+**Component #4:** Hall Effect Sensor (AS5600-ASOM).
 
-This anemometer is relatively inexpensive and operates within the given voltage requirements which fits the needs of the project.
+This component was changed from the anemometer rather close to the due date of our project. Our team had easy access to this sensor and it would be much easier to get it working properly than the initial alternative component.
 
 <figure class="image">  
 <div style="text-align: center">  
