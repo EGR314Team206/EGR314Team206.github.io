@@ -1,4 +1,5 @@
 # Software Implementation
+To see MPLAB X IDE Setup refer to [Appendix H](Appendix_H.md).
 
 ## System Design and Functionality
 
