@@ -26,12 +26,47 @@ This shows the first iteration of our full Schematic:
 [To Download](https://github.com/EGR314Team206/egr314team206.github.io/blob/main/SystemDesign_Sch.pdf)
 
 ## Photos of Board Design
-![Screenshot (225)](https://user-images.githubusercontent.com/122958638/235537237-46c90512-1312-446d-a984-f975acc3401e.png)
-![Screenshot (226)](https://user-images.githubusercontent.com/122958638/235537241-1025c928-b6d2-43a6-a65f-c604dcdc2c58.png)
+<figure class="image">  
+<p align="center">  
+<img src="https://user-images.githubusercontent.com/122958638/235537237-46c90512-1312-446d-a984-f975acc3401e.png" width="40%"><br>
+</p>
+</figure>
+
+<p align="center">
+Figure 9.1: Top of Board Design
+</p>
+
+<figure class="image">  
+<p align="center">  
+<img src="https://user-images.githubusercontent.com/122958638/235537241-1025c928-b6d2-43a6-a65f-c604dcdc2c58.png" width="40%"><br>
+</p>
+</figure>
+
+<p align="center">
+Figure 9.2: Bottom of Board Design
+</p>
 
 ## Photos of Physical Board
-![XCVC4426](https://user-images.githubusercontent.com/122958638/235541512-b097bbf0-9dbf-4847-9026-c4a55faf9203.JPG)
-![EQML7492](https://user-images.githubusercontent.com/122958638/235541517-1c06997d-dd2a-45f1-82e4-c310ea5e2cd5.JPG)
+
+<figure class="image">  
+<p align="center">  
+<img src="https://user-images.githubusercontent.com/122958638/235541512-b097bbf0-9dbf-4847-9026-c4a55faf9203.JPG" width="40%"><br>
+</p>
+</figure>
+
+<p align="center">
+Figure 9.3: Top of Physical Board
+</p>
+
+<figure class="image">  
+<p align="center">  
+<img src="https://user-images.githubusercontent.com/122958638/235541517-1c06997d-dd2a-45f1-82e4-c310ea5e2cd5.JPG" width="40%"><br>
+</p>
+</figure>
+
+<p align="center">
+Figure 9.4: Bottom of Physcial Board
+</p>
 
 ## Changes for the Future
 
