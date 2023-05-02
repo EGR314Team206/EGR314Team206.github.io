@@ -7,8 +7,7 @@
 </figure>
 
 <p align="center">
-Figure 1: A Research Sailboat that activates when in water by sensing the wind speed and direction and using a motor and pulley system to direct the sails according to travel in that direction for data.
-</p>
+Figure 5.1: Research Sailboat
 
 	
 <p align="left">
