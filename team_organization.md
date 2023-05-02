@@ -1,6 +1,6 @@
 ## Team Establishment
 ### Charter
-Based on the goals listed in [Appendix A](Appendix_A.md)and through a team discussion, we constructed the following charter:
+Based on the goals listed in the Team Establish Assignment and through a team discussion, we constructed the following charter:
 
 _Our team will work together respectively and considerately, valuing each other’s input and keeping deadlines and assignment requirements in mind._
 
