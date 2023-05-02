@@ -108,4 +108,4 @@ We hope that these recommendations help students in the future who are having tr
 
 # Code Repository
 
-**[github](https://github.com/EGR314Team206/egr314team206.github.io)**
+**[github](https://github.com/EGR314Team206/TeamCode)**
