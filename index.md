@@ -23,12 +23,12 @@ Mobile weather stations are important for giving accurate weather information to
 ## [Team Organization](team_organization.md)
 
 
-Our Team Organization briefly covers our Team Charter and Mission Statement. It describes our main goals for this project as well as what we hope to learn and accomplish.
+The Team Organization briefly covers the Team Charter and Mission Statement. It describes the main goals for this project as well as what the team hoped to learn and accomplish.
 
 ## [User Needs & Benchmarking](user_needs.md)
 
 
-Our User Needs and Benchmarking introduces how through VOC (Voice of Customer) Benchmarking, we were able to identify common issues addressed with products similar to our design restraints. By observing both positive and negative comments, we could identify what worked and what was a recurring issue. We later grouped these into separate categories of type and importance. Inside shows our process step by step, and how we came to identify these needs.
+The User Needs and Benchmarking introduces how through VOC (Voice of Customer) Benchmarking, the team was able to identify common issues addressed with products similar to the design restraints. By observing both positive and negative comments, the team could identify what worked and what was a recurring issue. Later, the ideas were grouped into separate categories of type and importance. Inside shows the process step by step, and how these needs were identified.
 
 ## [Product Requirements](product_requirements.md)
 
@@ -63,7 +63,7 @@ In Microcontroller Selection, reasons are given as to why the team chose that sp
 ## [Hardware Implementation](hardware_proposal.md)
 
 
-Our Hardware Implementation shows how all of the components connect with one another while explaining what team member had control over what subsystem. The latest iteration of the PCB is shown including the top and bottom. To see the power budget of this system, please see [Appendix D](Appendix_D.md). To download a copy of the system design click [here](https://github.com/EGR314Team206/egr314team206.github.io/files/10857227/SystemDesign.pdf).
+The Hardware Implementation shows how all of the components connect with one another while explaining what team member had control over what subsystem. The latest iteration of the PCB is shown including the top and bottom. To see the power budget of this system, please see [Appendix D](Appendix_D.md). To download a copy of the system design click [here](https://github.com/EGR314Team206/egr314team206.github.io/files/10857227/SystemDesign.pdf).
 
 ## [Software Implementation](software_proposal.md)
 
@@ -73,7 +73,7 @@ Software Implementation explains how the code will function, how the system will
 ## Lessons Learned
 
 
-During this semester, our group ran into many issues. From having to change our microcontroller three times, to choosing components that weren't compatible with our design, and not realizing this until much later. However, the team was able to apply knowledge learned from the previous semester in EGR 304. We learned the importance of using different forms of communication between chips (i.e. SPI, I2C, UART, etc.). For example, SPI is faster in communication, but I2C can support multi-masters. The team also learned the difference between switching and linear regulators. The most important thing learned was the design process as a whole. After EGR 314, the team has experience in every step from concept, to design, to application. While the team does not have vast knowledge in every step of the design process, EGR 314 gave us an introduction into every aspect, which will aid us in future endeavors.
+During this semester, the group ran into many issues. From having to change the microcontroller three times, to choosing components that weren't compatible with the design, and not realizing this until much later. However, the team was able to apply knowledge learned from the previous semester in EGR 304. Learning the importance of using different forms of communication between chips (i.e. SPI, I2C, UART, etc.). For example, SPI is faster in communication, but I2C can support multi-masters. The team also learned the difference between switching and linear regulators. The most important thing learned was the design process as a whole. After EGR 314, the team has experience in every step from concept, to design, to application. While the team does not have vast knowledge in every step of the design process, EGR 314 gave us an introduction into every aspect, which will aid in future endeavors.
 
 ## Recommendations For Future Students
 
