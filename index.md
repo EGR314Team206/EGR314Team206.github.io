@@ -104,6 +104,8 @@ We hope that these recommendations help students in the future who are having tr
 
 ## [Appendix F: System Verification Table](Appendix_F.md)
 
+## [Appendix G: Topic Table](Appendix_G.md)
+
 # Code Repository
 
 **[github](https://github.com/EGR314Team206/egr314team206.github.io)**
